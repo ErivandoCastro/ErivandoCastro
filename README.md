@@ -1,8 +1,9 @@
 <div align="center">
 
-## Hi 👋, I'm Erivando Castro
+<h1 style="font-size: 3em;">Hi 👋, I'm Erivando Castro</h1>
 
-**Um desenvolvedor back-end iniciante, fascinado por programação**
+## Computer Scientist 🧑‍💻
+
 
 </div>
 
