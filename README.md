@@ -7,7 +7,7 @@
 
 </div>
 
-- 🌱 Currently studying Java and Spring Boot  
+- 🌱 Currently studying Java and Spring
 - 🎓 Graduating in Computer Science at IFCE  
 - 🎓 A Computer Technician degreed from EEEP Raimundo Célio Rodrigues
   
