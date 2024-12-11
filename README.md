@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ErivandoCastro/ErivandoCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, I'm Erivando Castro
 
-Here are some ideas to get you started:
+**Um desenvolvedor back-end iniciante, fascinado por programação**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+- 🌱 Atualmente estudando Java e Spring Boot  
+- 🎓 Cursando Ciência da Computação no IFCE  
+- 🎓 Técnico em informática formado pela EEEP RAIMUNDO CÉLIO RODRIGUES
+  
+
+## Skills
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,py,c,mysql" />
+</a>
+
+## Contato
+<a href="mailto:erivandocb@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+
+
