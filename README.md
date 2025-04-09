@@ -14,7 +14,7 @@
 
 ## Languages and Tools:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,py,c,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,py,c,mysql,angular" />
 </a>
 
 ## Contact
