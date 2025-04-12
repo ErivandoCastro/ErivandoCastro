@@ -7,7 +7,7 @@
 
 </div>
 
-- 🌱 Currently studying Java and Spring
+- 💼 Software Developer| Java | Spring Boot | Angular
 - 🎓 Graduating in Computer Science at IFCE  
 - 🎓 A Computer Technician degreed from EEEP Raimundo Célio Rodrigues
   
