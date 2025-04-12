@@ -8,6 +8,7 @@
 </div>
 
 - 💼 Software Developer | Java | Spring Boot | Angular
+- 🌱 Currently learning Data Science (Python, ML, SQL)
 - 🎓 Graduating in Computer Science at IFCE  
 - 🎓 A Computer Technician degreed from EEEP Raimundo Célio Rodrigues
   
